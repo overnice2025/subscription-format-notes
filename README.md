@@ -143,6 +143,10 @@ A leaked subscription token lets someone else consume your quota, and in many pa
 
 ---
 
+---
+
+If this explained an import failure you'd been debugging, star the repo.
+
 ## Related
 
 - [Error code reference](https://github.com/overnice2025/clash-error-codes) — the exact errors these format mismatches produce
