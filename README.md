@@ -145,6 +145,10 @@ A leaked subscription token lets someone else consume your quota, and in many pa
 
 ---
 
+Machine-readable version of this reference (field mapping and the full error table, no JavaScript): **https://overnice2025.github.io/**
+
+---
+
 If this explained an import failure you'd been debugging, star the repo.
 
 ## Related
